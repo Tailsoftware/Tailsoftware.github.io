@@ -9,6 +9,7 @@ $(()=>{
         $('nav').css('position','fixed')
         $('nav').css('top','0')
         $('nav').css('right','0')
+        $('nav').css('left','0')
         $('nav').css('z-index','15')
         $('nav').css('background-color',' #13547a')
 
